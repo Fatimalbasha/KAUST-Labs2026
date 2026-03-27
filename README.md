@@ -1,6 +1,6 @@
 # KAUST Labs 2026
 
-This repository contains labs and exercises from the KAUST AI program.
+This repository contains labs and exercises from KAUST AI program.
 
 ---
 
