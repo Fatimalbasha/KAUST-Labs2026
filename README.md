@@ -6,6 +6,7 @@ This repository contains labs and exercises from the KAUST AI program.
 
 ## 📂 Repository Structure
 
+```text
 KAUST-Labs2026/
 │
 ├── Stage2/
