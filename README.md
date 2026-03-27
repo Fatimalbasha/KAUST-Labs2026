@@ -6,17 +6,29 @@ This repository contains labs and exercises from the KAUST AI program.
 
 ## 📂 Repository Structure
 KAUST-Labs2026/
+
 │
+
 ├── Stage2/
+
 │ ├── Day_1/
+
 │ ├── Day_2/
+
 │ ├── Day_3/
+
 │ └── Day_4/
+
 │
+
 ├── Stage3/
+
 │ ├── Day_1/
+
 │ ├── Day_2/
+
 │ └── Day_3/
+
 
 ---
 
